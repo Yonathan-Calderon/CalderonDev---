@@ -15,7 +15,7 @@ const InsightCard = ({ imgUrl, title, subtitle, index, url }) => (
     <img
       src={imgUrl}
       alt="planet-01"
-      className="md:w-[400px] ml-12 w-full h-[250px] rounded-[32px] object-cover"
+      className="md:w-[400px] w-full h-[250px] rounded-[32px] object-cover"
     />
     <div className="w-full flex-1 md:ml-[62px] flex flex-col max-w-[650px]">
       <h4 className="font-normal lg:text-[42px] text-[26px] text-white">
