@@ -4,6 +4,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 
 import styles from '../styles';
 import { slideIn, staggerContainer, textVariant } from '../utils/motion';
@@ -65,13 +66,14 @@ const Hero = () => (
     <div className="flex flex-col justify-center items-center w-full md:w-1/2 ">
       <motion.div variants={slideIn('right', 'tween', 0.2, 1)} className="relative w-full md:mt-4">
         <div className="flex justify-center">
-          <img
-            src="/ImagenEsquina1.png"
+          <Image
+            src="/ImagenEsquina1.webp"
             alt="hero_cover"
+            width={1200}
+            height={700}
             className="max-w-xl mx-auto w-full h-auto object-cover z-10 relative pl-9 -mt-6"
           />
         </div>
-
       </motion.div>
     </div>
   </motion.div>
