@@ -30,7 +30,7 @@ const Hero = () => (
             </svg>
           </motion.div>
         </a>
-        <a href="/cv/Yonathan Calderon - Mid-Level Full-Stack Developer.pdf" download>
+        <a href="/cv/Yonathan Calderon -- Mid-Level Full-Stack Developer.pdf" download>
           <motion.div variants={textVariant(1.4)}>
             <svg className="icon hoverable-icon" width="40" height="40" viewBox="0 0 24 24"><path d="M12 14l7-8H5l7 8zm0 4v-4H8l4 4 4-4h-4v4zM2 19v2h20v-2"> </path>
             </svg>
