@@ -77,6 +77,6 @@ export const socials = [
   {
     name: 'github',
     url: '/github.webp',
-    web: 'https://github.com/Yonathan-Calderon?tab=repositories',
+    web: 'https://github.com/Yonathan-Calderon',
   },
 ];
