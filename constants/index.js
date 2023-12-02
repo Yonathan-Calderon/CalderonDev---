@@ -24,8 +24,8 @@ export const exploreWorlds = [
     id: 'world-4',
     imgUrl: '/screenCalderonDev.webp',
     title: 'CalderonDev - Portfolio',
-    githubUrl: 'https://github.com',
-    websiteUrl: 'https://google.com',
+    githubUrl: 'https://github.com/Yonathan-Calderon/CalderonDev---',
+    websiteUrl: 'https://calderondev.com',
   },
 ];
 
