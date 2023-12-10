@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio, where you'll find information about me and some of the projects I've worked on. This project is built with modern technologies and follows best development practices.
 
+![Portfolio Image](https://github.com/Yonathan-Calderon/CalderonDev---/blob/main/public/screenCalderonDev.png)
+
 ## Core Technologies
 
 - [Next.js](https://nextjs.org/) - 13.0.3
