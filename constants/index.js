@@ -20,13 +20,6 @@ export const exploreWorlds = [
     githubUrl: 'https://github.com/Yonathan-Calderon/secure-rest-api',
     websiteUrl: 'https://rest-api-front.netlify.app',
   },
-  {
-    id: 'world-4',
-    imgUrl: '/screenCalderonDev.webp',
-    title: 'CalderonDev - Portfolio',
-    githubUrl: 'https://github.com/Yonathan-Calderon/CalderonDev---',
-    websiteUrl: 'https://calderondev.com',
-  },
 ];
 
 export const newFeatures = [
